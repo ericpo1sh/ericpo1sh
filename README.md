@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there my name is Eric Dzyk 👋
+Hi, I am a programming student at Atlas School in downtown Tulsa, OK. Ever since I was small, I was always curious about how things are made. My curiosity with coding started off when I was young and playing video games, I would be using/writing my own exploits and applying it to the game that I played, that's when everything just fell into place and I knew that I wanted to have a career in programming. 
 
+I am a tech driven individual who is always up-to-date on the newest trends and technology. I am a people person and I am very easy to talk to. I love to work both in a group and by myself. My goal is to express my ideas and turn them into reality through code!
+#### 🌱 I’m currently learning to become a Full-Stack Web-Dev at Atlas School in Tulsa, OK!
+#### 📫 How to reach me: **|** [Github](https://github.com/ericpo1sh) **|** [LinkedIn](https://www.linkedin.com/in/ericdzyk/) **|** [Email](mailto:ericpo1sh@gmail.com) |
 <!--
 **ericpo1sh/ericpo1sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
